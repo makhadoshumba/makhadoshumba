@@ -13,7 +13,7 @@ while exploring and working with different cloud platforms and services.
 ---
 
 ## Tech Stack
-- AWS | Azure | CI/CD  
+- AWS | Azure | CI/CD | Render | Vercel  
 - Python | C# (Console App) | Node.js  
 - Git | SQL / SQL Server / Azure SQL  
 - HTML | CSS | JavaScript  
