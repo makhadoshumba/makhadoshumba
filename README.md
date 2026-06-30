@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=200&section=header&text=Shumba%20Makhado&fontSize=40&fontColor=ffffff" />
 </p>
